@@ -16,7 +16,7 @@ Masukkan kunci enkripsi atau dekripsi sesuai dengan cipher yang dipilih.
 Pilih salah satu cipher dari menu (Vigenere, Playfair, atau Hill).
 
 4. Pilih Aksi:
-Klik tombol "Enkripsi" untuk mengenkripsi teks, atau "Dekripsi" untuk mendekripsi teks.
+Klik tombol "Encrypt" untuk mengenkripsi teks, atau "decrypt" untuk mendekripsi teks.
 
 5. Hasil:
-Hasil dari proses enkripsi atau dekripsi akan ditampilkan di area output di bawah.
+Hasil dari proses Encrypt atau decrypt akan ditampilkan di area output di bawah.
