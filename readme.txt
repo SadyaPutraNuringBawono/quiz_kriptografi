@@ -13,7 +13,7 @@ Anda bisa mengetik teks langsung di area input atau mengunggah file teks dengan 
 Masukkan kunci enkripsi atau dekripsi sesuai dengan cipher yang dipilih.
 
 3. Pilih Cipher:
-Pilih salah satu cipher dari menu drop-down (Vigenere, Playfair, atau Hill).
+Pilih salah satu cipher dari menu (Vigenere, Playfair, atau Hill).
 
 4. Pilih Aksi:
 Klik tombol "Enkripsi" untuk mengenkripsi teks, atau "Dekripsi" untuk mendekripsi teks.
